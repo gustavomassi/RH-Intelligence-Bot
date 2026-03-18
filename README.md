@@ -34,6 +34,11 @@ criar_db.py    # geração do banco vetorial
 .gitignore     # arquivos ignorados no Git
 ```
 
+## 🔍 Arquitetura
+
+PDF → Text Chunking → Embeddings → ChromaDB → Retrieval → Response Generation
+
+
 ## 🎯 Objetivo
 
 Facilitar o acesso rápido e inteligente a informações corporativas sem necessidade de busca manual em documentos extensos.
